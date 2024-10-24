@@ -115,15 +115,3 @@ Utilize ferramentas como Postman ou cURL para fazer requisições para os endpoi
 ```bash
 curl -X POST http://localhost:3001/soma -H "Content-Type: application/json" -d '{"a": 5, "b": 10}'
 ```
-
-### Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
-```
-
-### Personalização
-
-- **Nome do Repositório**: Substitua `nome_do_repositorio` pelo nome do seu repositório no GitHub.
-- **Usuário do GitHub**: Substitua `seu_usuario` pelo seu nome de usuário no GitHub.
-
-Sinta-se à vontade para ajustar qualquer parte do README conforme necessário. Se precisar de mais ajuda, estou à disposição!
