@@ -96,7 +96,9 @@ Esta é uma API simples construída com Node.js e Express que realiza operaçõe
 
 3. **Instale as dependências**:
    ```bash
-   npm install
+   npm init -y
+   npm install express
+   npm install body-parser
    ```
 
 4. **Inicie o servidor**:
