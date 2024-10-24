@@ -1,4 +1,3 @@
-```markdown
 # Calculadora API
 
 Esta é uma API simples construída com Node.js e Express que realiza operações matemáticas básicas, incluindo soma, subtração, multiplicação e divisão.
